@@ -9,3 +9,4 @@ function findAverage(arr){
     }
     return arrSum/count
 }
+
